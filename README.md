@@ -1,64 +1,143 @@
-# Abderrahim Ghedjati (Rahmoni) <sub></sub>
+ <div align="center">
 
-**Software engineer focused on backend engineering, Java, Spring Boot, API architecture and DevOps.**
-Based in Algeria. Software engineering student at Université Abdelhamid Mehri Constantine 2.
+# 𝑨𝒃𝒅𝒆𝒓𝒓𝒂𝒉𝒊𝒎 𝑮𝒉𝒆𝒅𝒋𝒂𝒕𝒊
+### `RAHMONI` · SOFTWARE ENGINEER
 
-I build the part of software you never see: the APIs, data and logic that make an application work. I like turning business requirements into reliable, working systems, and I care about architecture, performance and the details that separate professional work from ordinary implementations.
+**Building reliable systems. Designing thoughtful architecture.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rahmoni.netlify.app-e6b04a?style=flat-square&logo=netlify&logoColor=white&labelColor=161c22)](https://rahmoni.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-ghedjatirahmoni@gmail.com-e6b04a?style=flat-square&logo=gmail&logoColor=white&labelColor=161c22)](mailto:ghedjatirahmoni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahim%20Ghedjati-e6b04a?style=flat-square&logo=linkedin&logoColor=white&labelColor=161c22)](https://www.linkedin.com/in/abderrahim-ghedjati-435b74281/)
-[![Instagram](https://img.shields.io/badge/Instagram-rahmoni.dev-e6b04a?style=flat-square&logo=instagram&logoColor=white&labelColor=161c22)](https://www.instagram.com/rahmoni.dev/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-161c22?style=for-the-badge&logo=netlify&logoColor=e6b04a)](https://rahmoni.netlify.app/)
+[![Email](https://img.shields.io/badge/EMAIL-161c22?style=for-the-badge&logo=gmail&logoColor=e6b04a)](mailto:ghedjatirahmoni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161c22?style=for-the-badge&logo=linkedin&logoColor=e6b04a)](https://www.linkedin.com/in/abderrahim-ghedjati-435b74281/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-161c22?style=for-the-badge&logo=instagram&logoColor=e6b04a)](https://www.instagram.com/rahmoni.dev/)
 
-I'm open to freelance projects and engineering roles.
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161c22,50:252a30,100:161c22&height=2" width="85%" />
 
-## Selected work
+</div>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Darja Compiler**](https://github.com/rahmoni47/darja-compiler) | An educational programming language with Algerian Darija and Arabic keywords, with its own compiler (lexer, parser, AST, interpreter) and a VS Code extension. | Compiler design, VS Code extension |
-| [**Real-Time WebSocket Chat**](https://github.com/rahmoni47/chatappWithWebsocket) | A chat application showing bidirectional, event-driven messaging between server and clients. | Java, Spring Boot, WebSocket, STOMP |
-| [**Render Bypass System**](https://github.com/rahmoni47/RenderBypassSystem) | A lightweight service that sends scheduled health-check requests to configured endpoints. Explores scheduling, HTTP communication and monitoring. | Java, Spring Boot, REST, scheduled tasks |
-| [**Tesla UI**](https://github.com/rahmoni47/TeslaUI) | A Tesla-inspired automotive interface exploring instrument clusters, adaptive layouts and C++ to QML integration. Not affiliated with Tesla. | C++, Qt Quick, QML |
+## `01` — ABOUT ME
 
----
+I'm a software engineering student at **Université Abdelhamid Mehri Constantine 2**, based in Algeria, with a strong focus on backend engineering and building dependable software systems.
 
-## Toolkit
+My work revolves around the engineering behind the interface: **APIs, business logic, data models, system architecture, and infrastructure.**
 
-**Backend**
+I enjoy translating complex requirements into maintainable implementations, designing clear interfaces between services, and understanding the details that make software reliable beyond the happy path.
 
-![Java](https://skillicons.dev/icons?i=java,spring,hibernate,graphql)
-
-**Data**
-
-![Data](https://skillicons.dev/icons?i=postgres,redis,mongodb)
-
-**Infrastructure and DevOps**
-
-![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,git)
-
-**Frontend**
-
-![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind)
-
-**Systems and desktop UI**
-
-![Systems](https://skillicons.dev/icons?i=cpp,qt)
-
-Also: Swagger, Keycloak, JUnit.
+- **Focus:** Backend engineering & API architecture
+- **Core stack:** Java · Spring Boot
+- **Interests:** Distributed systems, software design & DevOps
+- **Based in:** Algeria 🇩🇿
+- **Open to:** Freelance opportunities & engineering roles
 
 ---
 
-## How I work
+## `02` — TECHNICAL ARSENAL
 
-- **Clear architecture.** Separate concerns so the code stays easy to change.
-- **Predictable APIs.** Consistent contracts, clear errors, documented endpoints.
-- **Data first.** Model around how data is queried, then check the queries.
-- **Secure by default.** Authentication and authorization designed in from the start.
-- **Built to ship.** Containers, CI/CD and monitoring are part of finishing a feature.
+<div align="center">
+
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,graphql&theme=dark" />
+
+### DATA & STORAGE
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" />
+
+### INFRASTRUCTURE & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,grafana,git&theme=dark" />
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+
+### SYSTEMS & DESKTOP ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=cpp,qt&theme=dark" />
+
+</div>
+
+**Additional tools:** Swagger · Keycloak · JUnit
 
 ---
 
-Want to build something together? [Email me](mailto:ghedjatirahmoni@gmail.com).
+## `03` — ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Architecture first
+
+Separation of concerns, clear boundaries, and designs that remain maintainable as systems evolve.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ APIs that make sense
+
+Consistent contracts, predictable errors, meaningful HTTP semantics, and well-documented endpoints.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Data with purpose
+
+Thoughtful data modeling, query-aware design, and attention to performance where it matters.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Security by design
+
+Authentication, authorization, and secure defaults treated as engineering requirements—not afterthoughts.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ◈ From code to production
+
+Containerization, CI/CD, monitoring, and operational visibility are part of delivering a feature—not separate concerns to postpone.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahmoni47&show_icons=true&hide_border=true&bg_color=161c22&title_color=e6b04a&icon_color=e6b04a&text_color=d9e0e8&ring_color=e6b04a" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmoni47&layout=compact&hide_border=true&bg_color=161c22&title_color=e6b04a&text_color=d9e0e8" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rahmoni47&hide_border=true&background=161c22&ring=e6b04a&fire=e6b04a&currStreakLabel=e6b04a&sideLabels=d9e0e8&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+I’m always interested in good engineering, challenging problems, and opportunities to build software that matters.
+
+[**Get in touch →**](mailto:ghedjatirahmoni@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161c22,50:e6b04a,100:161c22&height=2" width="85%" />
+
+<sub>Designed with precision · Built with purpose · 🇩🇿 Algeria</sub>
+
+</div>
