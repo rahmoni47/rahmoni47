@@ -5,10 +5,10 @@
 
 **Building reliable systems. Designing thoughtful architecture.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-161c22?style=for-the-badge&logo=netlify&logoColor=e6b04a)](https://rahmoni.netlify.app/)
-[![Email](https://img.shields.io/badge/EMAIL-161c22?style=for-the-badge&logo=gmail&logoColor=e6b04a)](mailto:ghedjatirahmoni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161c22?style=for-the-badge&logo=linkedin&logoColor=e6b04a)](https://www.linkedin.com/in/abderrahim-ghedjati-435b74281/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-161c22?style=for-the-badge&logo=instagram&logoColor=e6b04a)](https://www.instagram.com/rahmoni.dev/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rahmoni.dpdns.org-e6b04a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161c22)](https://rahmoni.dpdns.org/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-e6b04a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161c22)](mailto:ghedjatirahmoni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-e6b04a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161c22)](https://www.linkedin.com/in/abderrahim-ghedjati-435b74281/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-rahmoni.dev-e6b04a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161c22)](https://www.instagram.com/rahmoni.dev/)
 
 <br/>
 
@@ -131,6 +131,8 @@ Containerization, CI/CD, monitoring, and operational visibility are part of deli
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
 I’m always interested in good engineering, challenging problems, and opportunities to build software that matters.
+
+[**Visit my portfolio →**](https://rahmoni.dpdns.org/)
 
 [**Get in touch →**](mailto:ghedjatirahmoni@gmail.com)
 
